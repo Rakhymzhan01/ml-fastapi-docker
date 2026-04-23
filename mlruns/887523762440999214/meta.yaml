@@ -1,0 +1,8 @@
+artifact_location: /Users/demessinovrakhymzhan/Desktop/ml-fastapi-docker/mlruns/887523762440999214
+creation_time: 1776968273660
+experiment_id: '887523762440999214'
+last_update_time: 1776968273660
+lifecycle_stage: active
+name: iris-classification
+trace_location: null
+workspace: default

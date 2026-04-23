@@ -1,0 +1,16 @@
+creation_timestamp: 1776968275110
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1776968275110
+model_id: m-399d84c40b11400fa1e9d406dcb9c3af
+name: iris-random-forest
+run_id: 8a70f1371bf247b29216a5ee4696a27d
+run_link: null
+source: models:/m-399d84c40b11400fa1e9d406dcb9c3af
+status: READY
+status_message: null
+storage_location: /Users/demessinovrakhymzhan/Desktop/ml-fastapi-docker/mlruns/887523762440999214/models/m-399d84c40b11400fa1e9d406dcb9c3af/artifacts
+user_id: null
+version: 1
+workspace: default

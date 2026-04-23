@@ -1,0 +1,10 @@
+artifact_location: /Users/demessinovrakhymzhan/Desktop/ml-fastapi-docker/mlruns/887523762440999214/models/m-399d84c40b11400fa1e9d406dcb9c3af/artifacts
+creation_timestamp: 1776968273790
+experiment_id: '887523762440999214'
+last_updated_timestamp: 1776968275106
+model_id: m-399d84c40b11400fa1e9d406dcb9c3af
+model_type: null
+name: model
+source_run_id: 8a70f1371bf247b29216a5ee4696a27d
+status: 2
+status_message: null

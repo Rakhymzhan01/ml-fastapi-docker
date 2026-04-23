@@ -1,0 +1,14 @@
+artifact_uri: /Users/demessinovrakhymzhan/Desktop/ml-fastapi-docker/mlruns/887523762440999214/8a70f1371bf247b29216a5ee4696a27d/artifacts
+end_time: 1776968275115
+entry_point_name: ''
+experiment_id: '887523762440999214'
+lifecycle_stage: active
+run_id: 8a70f1371bf247b29216a5ee4696a27d
+run_name: auspicious-dog-976
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776968273733
+status: 3
+tags: []
+user_id: demessinovrakhymzhan
